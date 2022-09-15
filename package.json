@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SashaPavlovski/landing_page/issues"
   },
-  "homepage": "https://github.com/SashaPavlovski/landing_page#readme"
+  "homepage": "https://github.com/SashaPavlovski/landing_page#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
